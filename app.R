@@ -592,7 +592,7 @@ server <- function(input, output, session) {
       )
     })
     
-    #Etimacion regresion lineal 
+    #Estimacion regresion lineal 
     output$grafico_regresion <- renderPlotly({
       # Filtrado según ubicación y año
       datos <- base %>% filter(Anio == input$filtro_anio)
