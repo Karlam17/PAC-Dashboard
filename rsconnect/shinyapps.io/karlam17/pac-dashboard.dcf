@@ -1,0 +1,10 @@
+name: pac-dashboard
+title:
+username: karlam17
+account: karlam17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14896489
+bundleId: 10413316
+url: https://karlam17.shinyapps.io/pac-dashboard/
+version: 1
