@@ -105,7 +105,7 @@ Visualización del modelo de regresión múltiple que predice la esperanza de vi
 (Output: plotlyOutput("grafico_regresion"))
 
 🎥 Videos demostrativos
-https://drive.google.com/file/d/1XoHVHiKg_GgnS7-U6JRIAPuBcnY7wxN7/view?usp=drive_link
+[https://drive.google.com/file/d/1XoHVHiKg_GgnS7-U6JRIAPuBcnY7wxN7/view?usp=drive_link](https://youtu.be/WHh3-yHmek0)
 
 🛠️ Detalles técnicos
 📝 Lenguaje: R
